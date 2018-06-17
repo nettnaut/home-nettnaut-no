@@ -1,0 +1,12 @@
+{
+  "EncryptionPassword": "2rrzfgkmrhlrls775bkcbdqqkfg2nwqwb27rj9g8",
+  "EndDate": "2018-06-16T01:57:53.907Z",
+  "ExportLocation": "https://ascendon-dataextract-prd.s3.amazonaws.com/prd-10008/ff53d209-c7b3-4f9e-91a1-bac217f6fe00-Kwese-iflix%20-%20Subscription%20changes-18-06-17-4-03-05.248.zip?AWSAccessKeyId=ASIAI3RUN7DOROQJ74NA&Expires=1529337787&x-amz-security-token=FQoDYXdzELX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDMOpCMJN%2FMCvR9JrqSKEA0G9izGuJLwzzW1vyPAo2gbcC88gRkUCADH2lbSAraMMHjSIEAZ3dP4B%2BeDbkB%2FA4O%2FHtXQYzgCxoDP5rAD36i7%2BF2kQnceBM%2Ba3gxCo1oIujBllyRbhDwq4SsDLDuIH1PCjKedntI9HSX%2F0YyRn%2FSlf2NtNaEmCu9GFpoRGxH9mr3wFEnhGgjQzYPDlabtBY%2BYE62OyvFuKym%2BlUaxGInj20pX17X0wFw6vttNYczM4%2FJ98hkfnmchlE%2B9C4cNvf7rkrT7QvqE3ZayCOeLNGeIF8iH%2FBM5YbngpGiuYTDae4JifEPOavrrKoUTEpcA4Me9oItxUCjmYqyC%2Fpcy%2B0DXGQlYpTOJEQhUCHN0IRkOp5Rz6MeUD%2ByMX7n3IMbigWIA4%2Bhmnk6Ng4zMdXSEH95ws8lbgLhWAOrZd7Y8th%2Ff%2FC0vHInj%2FH5RAjTOMlfUE%2FiNP2fhoyxELVhjQDxL1x0KJFw5e72szIL9CXk1R2BPGVsahcVnggBsuPbqU%2BFkQVAUMLJoo%2BrqX2QU%3D&Signature=gqcq8aOl%2BH4u%2FuJHnIDl%2FFVlDHA%3D",
+  "FileFormat": 2,
+  "ProcessingComplete": "2018-06-17T04:03:05.250Z",
+  "ProcessingStart": "2018-06-17T04:02:57.313Z",
+  "ReportScheduleName": null,
+  "ReportViewName": "Kwese-iflix - Subscription changes",
+  "StartDate": "2018-06-15T01:57:53.906Z",
+  "Tag": "subscription"
+}

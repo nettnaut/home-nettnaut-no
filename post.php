@@ -1,7 +1,7 @@
 <?php
 $data_string = file_get_contents('data.json');
 
-$ch = curl_init('http://home.nettnaut.no/webhook.php');
+$ch = curl_init('http://localhost:8080/webhook.php');
 curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "POST");
 curl_setopt($ch, CURLOPT_POSTFIELDS, $data_string);
 curl_setopt($ch, CURLOPT_HEADER, 1);
